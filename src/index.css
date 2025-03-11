@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: black;
+  background-color: #ffffff;  /* #242424 */ }
