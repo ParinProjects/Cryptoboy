@@ -8,7 +8,8 @@ function SocialBar() {
                 <Facebook size={18} color="#1c71d8" />
                 <Instagram size={20} color="#ed333b" />
                 <Twitter size={20} color="#62a0ea" />
-            </div></>
+            </div>
+        </>
     )
 }
 
