@@ -19,13 +19,13 @@ function Hero() {
             
         <div className='relative w-1/2  justify-end hidden md:flex '>
             <img src={banner} alt="" className='w-140'/>
-            <div className=''>
-            <div className="chat chat-end absolute -top-[10%] right-[50%]">
-                <div className="chat-bubble chat-bubble-success text-white">You have been given a great honor.</div>
-            </div>
-            <div className="chat chat-end absolute top-[10%] right-[40%]">
-                <div className="chat-bubble chat-bubble-warning text-white">To be on the Council at your age.</div>
-            </div>
+            <div >
+                <div className="chat chat-end absolute -top-[10%] right-[50%]">
+                    <div className="chat-bubble chat-bubble-success text-white">You have been given a great honor.</div>
+                </div>
+                <div className="chat chat-end absolute top-[10%] right-[40%]">
+                    <div className="chat-bubble chat-bubble-warning text-white">To be on the Council at your age.</div>
+                </div>
             </div>
         </div>
         </section>
